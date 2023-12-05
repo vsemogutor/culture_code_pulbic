@@ -1,0 +1,6 @@
+{
+    "telegram_token": "",
+    "openai_api_key": "sk-",
+    "predefined_image_path": "images/predefined_image_2.jpg",
+    "max_attempts": 3
+}
